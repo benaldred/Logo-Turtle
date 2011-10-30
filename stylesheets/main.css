@@ -1,0 +1,38 @@
+
+
+
+article {
+  width: 800px;
+  margin: 40px;
+}
+
+
+form {
+  float:left;
+}
+
+textarea {
+  width: 200px;
+  height: 300px;
+}
+
+.buttons {
+  display:block;
+  margin-top: 20px;
+}
+
+.buttons input {
+font-size:14px;
+}
+
+li {
+  list-style-type: none;
+}
+
+canvas {
+  border:2px solid #ccc;
+}
+
+p.help {
+  margin-top: 20px;
+}
